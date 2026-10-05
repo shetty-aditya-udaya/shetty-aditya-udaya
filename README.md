@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on Python Full Stack applications (Django, Flask, React).<br>🤝 I’m looking to collaborate on Full Stack web apps with real-world use cases.<br>🧠 I’m looking for help with Advanced AI model integration.<br>🌱 I’m currently learning Cloud platforms (AWS / Vercel / Docker).<br>💬 Ask me about Python, Django, Flask, REST APIs & JWT authentication.<br>⚡ Fun fact is I love turning complex problems into simple solutions 🚀
+🛠️ I’m currently working on Python Full Stack applications (Django, React).<br>🤝 I’m looking to collaborate on Full Stack web apps with real-world use cases.<br>🧠 I’m looking for help with Advanced AI model integration.<br>🌱 I’m currently learning Cloud platforms (AWS / Vercel / Docker).<br>💬 Ask me about Python, Django, REST APIs & JWT authentication.<br>⚡ Fun fact is I love turning complex problems into simple solutions 🚀
 
 
 ## 🌐 Socials:
